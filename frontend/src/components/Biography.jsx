@@ -1,6 +1,6 @@
 import React from "react";
 
-const Biography = ({imageUrl}) => {
+const Biography = ({ imageUrl }) => {
   return (
     <>
       <div className="container biography">
@@ -19,8 +19,6 @@ const Biography = ({imageUrl}) => {
             similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
             nesciunt laboriosam totam iusto!
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
             assumenda exercitationem accusamus sit repellendus quo optio dolorum
@@ -30,6 +28,7 @@ const Biography = ({imageUrl}) => {
             voluptas illo qui ipsum mollitia. Libero, assumenda?
           </p>
           <p>Lorem ipsum dolor sit amet!</p>
+          <p>A MERN STACK PROJECT.</p>
           <p>Coding is fun!</p>
         </div>
       </div>
